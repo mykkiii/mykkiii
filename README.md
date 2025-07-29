@@ -1,6 +1,7 @@
 ## Hellos!! ^_^
 
-<!--
+<!--![IMG_9013](https://github.com/user-attachments/assets/bfce5c15-ea09-40e4-8d6a-27fd2e4dfa95)
+
 **mykkiii/mykkiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
